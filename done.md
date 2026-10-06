@@ -1,0 +1,1 @@
+For us, being done means having a demoable product and all members agree the story complete in the allotted time.
