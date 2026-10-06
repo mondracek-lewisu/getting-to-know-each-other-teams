@@ -28,9 +28,9 @@ permalink: /backlogs/product-backlog/
 | RC-017 | As a user, I want to identify and process my family history of hypertension so that I can understand how my health history affects my risk. | 1 | 3 | N | -- | -- |
 | RC-019 | As a user, I would like the application to run natively on my iPhone so that I can use it while driving. | 1 | -- | N | -- | -- |
 | RC-020 | As a developer, I want to setup a shared Github Repository and connected Azure Static Web App to allow our Scrum team can collaboratively develop, deploy, and automatically update our team website in the cloud. | 10 | -- | Y | -- | ASL | 
-| RC-021 | As a developer, I want to implement the team's HTML, CSS, and Javascript webpage so that the required team information and navigation are available in a functional web application. | 8 | 4 | Y | ASL |
+| RC-021 | As a developer, I want to implement the team's HTML, CSS, and Javascript webpage so that the required team information and navigation are available in a functional web application. | 8 | 4 | Y | -- | ASL |
 | RC-022 | As a developer, I want to implement individual team member pages and an assignment portfolio so that the website can organize and display team information in individual sections designated for each team member. | 
-| RC-023 | As a developer, I want to implement the team image map and navigation links for each team memebr sections that connects to their individual web page. There will also be another link to a web portfolio with our completed projects. | 8 | 4 | Y | ASL |
+| RC-023 | As a developer, I want to implement the team image map and navigation links for each team memebr sections that connects to their individual web page. There will also be another link to a web portfolio with our completed projects. | 8 | 4 | Y | -- | ASL |
 
 
 Todo:
