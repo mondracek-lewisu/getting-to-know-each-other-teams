@@ -12,9 +12,9 @@ permalink: /backlogs/product-backlog/
 | RC-003 | As a Scrum Master, I want to facilitate Sprint Planning and story commitment so that I can help the team work with focus and alignment. | 8 | 1 | Y |  --| MO |
 | RC-002 | As a Product Owner, I want to manage the backlogs and focus on the Minimum Viable Product (MVP) and prioritize stories so that I can deliver value to users by the end of the sprint. | 8 | 1 | Y | -- | ASL |
 | RC-004 | As a developer, I want to create a GitHub organization and repos for clients and servers so that I can collaborate using centralized version control. | 10 | 1| Y | DONE | MO |
-| RC-005 | As a developer, I want to set up GitHub client and server repositories along with connected Azure Static Web App and Node.js servers so that I can deploy and test code collaboratively in the cloud. | 7 | 5 | Y | -- | -- |
-| RC-006 | As a user, I want a clean and welcoming home screen with instructions so that I can quickly understand how to use the application. | 7 | 3 | N | -- | -- |
-| RC-007 | As a user, I want to enter my age, height (in feet and inches), weight (lbs), blood pressure, and family history so that I can receive a personalized risk calculation. | 7 | 4 | N | -- | -- |
+| RC-005 | As a developer, I want to set up GitHub client and server repositories along with connected Azure Static Web App and Node.js servers so that I can deploy and test code collaboratively in the cloud. | 10 | 2 | Y | READY | MO |
+| RC-006 | As a user, I want a clean and welcoming home screen with instructions so that I can quickly understand how to use the application. | 7 | 1 | N | -- | JL |
+| RC-007 | As a user, I want to enter my age, height (in feet and inches), weight (lbs), blood pressure, and family history so that I can receive a personalized risk calculation. | 2 | 2 | Y | -- | MO |
 | RC-008 | As a user, I want my inputs validated (e.g., height ≥ 2 feet) so that I can avoid mistakes and receive accurate results. | 7 | 4 | N | -- | -- |
 | RC-009 | Summarize inputs (fix) | 5 | 3 | N | -- | -- |
 | RC-010 | As a client, I want to call a “ping” API to wake the servers on load, ensuring the backend is responsive when needed. | 5 | 2 | N | -- | -- |
