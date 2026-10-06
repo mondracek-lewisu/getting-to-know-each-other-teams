@@ -27,7 +27,8 @@ permalink: /backlogs/product-backlog/
 | RC-013 | As a developer, I want to configure local `.env` or config files for seamless local testing so that I can develop without environment conflicts. (fix) | 2 | 5 | N | -- | JL |
 | RC-017 | As a user, I want to identify and process my family history of hypertension so that I can understand how my health history affects my risk. | 1 | 3 | N | -- | -- |
 | RC-019 | As a user, I would like the application to run natively on my iPhone so that I can use it while driving. | 1 | -- | N | -- | -- |
-| RC-020 | As a developer, I want to setup a shared Github Repository and connected Azure Static Web App to allow our Scrum team can collaboratively develop, deploy, and automatically update our team website in the cloud.
+| RC-020 | As a developer, I want to setup a shared Github Repository and connected Azure Static Web App to allow our Scrum team can collaboratively develop, deploy, and automatically update our team website in the cloud. | 10 | -- | Y | -- | ASL | 
+| RC-021 | As a developer, I want to implement the team's HTML, CSS, and Javascript webpage so that the required team information and navigation are available in a functional web application.. | 8 | 4 | Y | ASL |
 
 
 Todo:
