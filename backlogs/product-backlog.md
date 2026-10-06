@@ -16,7 +16,7 @@ permalink: /backlogs/product-backlog/
 | RC-006 | As a user, I want a clean and welcoming home screen with instructions so that I can quickly understand how to use the application. | 7 | 1 | N | -- | VM |
 | RC-007 | As a user, I want to enter my age, height (in feet and inches), weight (lbs), blood pressure, and family history so that I can receive a personalized risk calculation. | 7 | 2 | N | -- | MO |
 | RC-008 | As a user, I want my inputs validated (e.g., height ≥ 2 feet) so that I can avoid mistakes and receive accurate results. | 6 | 1 | N | -- | MO |
-| RC-009 | Summarize inputs (fix) | 6 | 1 | N | -- | ASL |
+| RC-009 | As a user, I want to see a summary of my inputs before submitting so that I can confirm the information I entered is correct. | 7 | 1 | N | -- | ASL |
 | RC-010 | As a client, I want to call a “ping” API to wake the servers on load, ensuring the backend is responsive when needed. | 5 | 2 | N | -- | JL |
 | RC-011 | As a developer, I want to implement the risk calculation API using Node.js so that I can encapsulate the core business logic on the server side. | 7 | 6 | Y | -- | JL |
 | RC-012 | As a developer, I want to write at least one Node.js API and commit to GitHub so that I can contribute to server-side functionality and maintain traceable commits. (one story per team member) | 7 | 3 | Y | -- | JL |
