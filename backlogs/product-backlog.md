@@ -11,7 +11,7 @@ permalink: /backlogs/product-backlog/
 | RC-001 | As a Scrum Team, we want to identify the Sprint 4 Scrum Master and Product Owner so that I can ensure team responsibilities are clearly defined for the sprint, | 10 | 0 | Y | Ready | MO |
 | RC-005 | As a developer, I want to set up GitHub client and server repositories along with connected Azure Static Web App and Node.js servers so that I can deploy and test code collaboratively in the cloud. | 10 | 2 | Y | READY | MO |
 | RC-004 | As a developer, I want to create a GitHub organization and repos for clients and servers so that I can collaborate using centralized version control. | 10 | 1| Y | DONE | MO |
-| RC-020 | As a developer, I want to setup a shared Github Repository and connected Azure Static Web App to allow our Scrum team can collaboratively develop, deploy, and automatically update our team website in the cloud. | 10 | -- | Y | -- | ASL | 
+| RC-020 | As a developer, I want to setup a shared Github Repository and connected Azure Static Web App to allow our Scrum team can collaboratively develop, deploy, and automatically update our team website in the cloud. | 10 | 1 | Y | -- | ASL | 
 | RC-003 | As a Scrum Master, I want to facilitate Sprint Planning and story commitment so that I can help the team work with focus and alignment. | 8 | 1 | Y |  --| MO |
 | RC-002 | As a Product Owner, I want to manage the backlogs and focus on the Minimum Viable Product (MVP) and prioritize stories so that I can deliver value to users by the end of the sprint. | 8 | 1 | Y | -- | ASL |
 | RC-021 | As a developer, I want to implement the team's HTML, CSS, and Javascript webpage so that the required team information and navigation are available in a functional web application. | 8 | 4 | Y | -- | ASL |
