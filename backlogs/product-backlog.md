@@ -23,7 +23,7 @@ permalink: /backlogs/product-backlog/
 | RC-014 | As a Product Owner, I want to ensure that no calculations occur on the client so that I can maintain centralized and consistent calculation logic. | 7 | 1 | Y | -- | ASL |
 | RC-008 | As a user, I want my inputs validated (e.g., height ≥ 2 feet) so that I can avoid mistakes and receive accurate results. | 6 | 1 | N | -- | MO |
 | RC-022 | As a developer, I want to implement individual team member pages and an assignment portfolio so that the website can organize and display team information in individual sections designated for each team member. | 6 | 4 | Y | -- | ASL | 
-| RC-023 | As a developer, I want to implement the team image map and navigation links for each team memebr sections that connects to their individual web page. There will also be another link to a web portfolio with our completed projects. | 6 | 4 | Y | -- | ASL |
+| RC-023 | As a developer, I want to implement the team image map and navigation links for each team member sections that connects to their individual web page. There will also be another link to a web portfolio with our completed projects. | 6 | 4 | Y | -- | ASL |
 | RC-024 | As a developer, I want to commit my assigned changes to GitHub so I contribute to the group's website functionality, and my activity can be tracked through the project's version history | 5 | 1 | Y | -- | ASL |
 | RC-010 | As a client, I want to call a “ping” API to wake the servers on load, ensuring the backend is responsive when needed. | 5 | 2 | N | -- | JL |
 | RC-015 | As a developer, I want to deploy the client as an Azure static website so that I can provide users with a fast and accessible frontend. | 5 | 3 | Y | DONE | MO |
