@@ -6,13 +6,13 @@ permalink: /backlogs/sprint-04-backlog/
 
 # 📋 Sprint 04 Backlog – *Insurance Risk Calculator*
 
-Scrum Master: Eric Pogue
+Scrum Master: Matt Ondracek
 
-Product Owner: Eric Pogue
+Product Owner: Alanna
 
-Sprint 4 Planning Date/Time:
+Sprint 4 Planning Date/Time: 10/8
 
-Sprint 4 Planning Participants: Eric Pogue, Tessy, and Edward Scissorhands (remotely)
+Sprint 4 Planning Participants: Matt, Jesse, Alanna, Vincent
 
 Sprint 4 Backlog:
 
