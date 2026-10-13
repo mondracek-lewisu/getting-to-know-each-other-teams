@@ -1,0 +1,68 @@
+body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background-color: #a6241b;
+    }
+
+    header {
+      background-color: #333;
+      color: white;
+      padding: 20px 0;
+    }
+
+    main {
+      padding: 20px;
+      color: white;
+    }
+    
+    .team-photo {
+      width: 80%;
+      max-width: 600px;
+      margin: 20px auto;
+      display: block;
+      border: 3px solid #ddd2d2;
+    }
+
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+
+    li {
+      margin: 10px 0;
+    }
+
+    a {
+      color: white;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    /* Individual boxes for each section */
+    section {
+      background-color: white;
+      color: #333;
+      width: 80%;
+      max-width: 700px;
+      margin: 30px auto;
+      padding: 25px;
+      border: 2px solid #333;
+      box-sizing: border-box;
+    }
+
+    section h2 {
+      color: #a6241b;
+      margin-top: 0;
+    }
+
+    section a {
+      color: #a6241b;
+    }
+
+    ul li 
+{
+      margin-bottom: 10px;
+    }
