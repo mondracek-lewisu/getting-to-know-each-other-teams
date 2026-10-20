@@ -27,3 +27,4 @@ Members present for planning: Matt, Jesse, Alanna
 | RC-013 | As a developer, I want to contribute at least 2 meaningful stories to the product backlog. (Vincent) | 7 | 1 | Y | -- | VM |
 | RC-014 | As a developer, I want to go the Fall 2026 mid-term Product Review on Tuesday, October 27 at 2 pm CT for the capstone Scrum Team. | 4 | 1 | Y | -- | -- |
 | RC-015 | As Scrum Master, I want to review my team's performance in the previous sprint. | 6 | 1 | Y | -- | JL |
+| RC-016 | As Product Owner, I want to review (and update if needed) our team's definition of Done. | 6 | 1 | Y | -- | MO |
