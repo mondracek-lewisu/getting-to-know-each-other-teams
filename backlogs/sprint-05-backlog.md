@@ -6,9 +6,9 @@ permalink: /previous-sprint-backlogs/sprint-04-backlog/
 
 # 📋 Sprint 04 Backlog – *Insurance Risk Calculator*
 
-Scrum Master: Matt Ondracek
+Scrum Master: Jesse Lopez
 
-Product Owner: Alanna
+Product Owner: Matt Ondracek
 
 Sprint 4 Planning Date/Time: 10/8
 
