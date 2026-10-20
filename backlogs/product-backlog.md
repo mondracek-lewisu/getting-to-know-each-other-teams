@@ -4,8 +4,13 @@ title: Product Backlog
 permalink: /backlogs/product-backlog/
 ---
 
+Product Owner: Matt Ondracek
+Capacity: 28 story points
+Members present for planning: Matt, Jesse, Alanna
+
 # 📋 Product Backlog – *Insurance Risk Calculator*
 
 | **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
-| RC-001 | As a Scrum Team, we want to identify the Sprint 4 Scrum Master and Product Owner so that I can ensure team responsibilities are clearly defined for the sprint, | 10 | 0 | Y | Ready | MO |
+| RC-001 | As a Scrum Team, we want to coordinate our Product Backlog with that of the capstone Scrum Team. | 6 | 1 | Y | Ready | JL |
+
