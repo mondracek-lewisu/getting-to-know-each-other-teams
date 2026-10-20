@@ -17,3 +17,7 @@ Members present for planning: Matt, Jesse, Alanna
 | RC-003 | As Jesse, I want to be able to work on and test the billboard product locally and through Azure. | 10 | 1 | Y | -- | JL |
 | RC-004 | As Alanna, I want to be able to work on and test the billboard product locally and through Azure. | 10 | 1 | Y | -- | ASL |
 | RC-005 | As Vincent, I want to be able to work on and test the billboard product locally and through Azure. | 10 | 1 | Y | -- | VM |
+| RC-006 | As a user, I want to see the developers' names on the credit page of the billboard application. (Matt) | 9 | 2 | N | -- | MO |
+| RC-007 | As a user, I want to see the developers' names on the credit page of the billboard application. (Jesse) | 9 | 2 | N | -- | JL |
+| RC-008 | As a user, I want to see the developers' names on the credit page of the billboard application. (Alanna) | 9 | 2 | N | -- | ASL |
+| RC-009 | As a user, I want to see the developers' names on the credit page of the billboard application. (Vincent) | 9 | 2 | N | -- | VM |
