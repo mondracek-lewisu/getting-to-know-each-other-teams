@@ -4,7 +4,7 @@ title: Sprint 5 Backlog
 permalink: /previous-sprint-backlogs/sprint-04-backlog/
 ---
 
-# 📋 Sprint 05 Backlog – *Ecamms Billboard*
+# 📋 Sprint 05 Backlog – *ECaMs Billboard*
 
 Scrum Master: Jesse Lopez
 
@@ -16,11 +16,10 @@ Sprint 5 Planning Participants: Matt, Jesse, Alanna
 
 Sprint 5 Backlog:
 
-# 📋 Product Backlog – *Ecamms BillBoard*
+# 📋 Product Backlog – *ECaMs BillBoard*
 
 | **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
-| RC-001 | As a Scrum Team, we want to coordinate our Product Backlog with that of the capstone Scrum Team. | 6 | 1 | Y | -- | JL |
 | RC-002 | As Matt, I want to be able to work on and test the billboard product locally and through Azure. | 10 | 2 | Y | -- | MO |
 | RC-003 | As Jesse, I want to be able to work on and test the billboard product locally and through Azure. | 10 | 2 | Y | -- | JL |
 | RC-004 | As Alanna, I want to be able to work on and test the billboard product locally and through Azure. | 10 | 2 | Y | -- | ASL |
