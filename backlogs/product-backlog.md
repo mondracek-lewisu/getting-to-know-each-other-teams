@@ -21,3 +21,7 @@ Members present for planning: Matt, Jesse, Alanna
 | RC-007 | As a user, I want to see the developers' names on the credit page of the billboard application. (Jesse) | 9 | 2 | N | -- | JL |
 | RC-008 | As a user, I want to see the developers' names on the credit page of the billboard application. (Alanna) | 9 | 2 | N | -- | ASL |
 | RC-009 | As a user, I want to see the developers' names on the credit page of the billboard application. (Vincent) | 9 | 2 | N | -- | VM |
+| RC-010 | As a developer, I want to contribute at least 2 meaningful stories to the product backlog. (Matt) | 7 | 1 | Y | -- | MO |
+| RC-011 | As a developer, I want to contribute at least 2 meaningful stories to the product backlog. (Jesse) | 7 | 1 | Y | -- | JL |
+| RC-012 | As a developer, I want to contribute at least 2 meaningful stories to the product backlog. (Alanna) | 7 | 1 | Y | -- | ASL |
+| RC-013 | As a developer, I want to contribute at least 2 meaningful stories to the product backlog. (Vincent) | 7 | 1 | Y | -- | VM |
