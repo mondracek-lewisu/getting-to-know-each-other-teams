@@ -7,10 +7,11 @@ This is a website that serves as an assignment portfolio for our scrum team, Spi
 ### Backlogs
 Current Product and Sprint Backlogs
 - [Product Backlog](backlogs/product-backlog.md/)
-- [Sprint 04 Backlog](backlogs/sprint-04-backlog.md)
+- [Sprint 05 Backlog](backlogs/sprint-05-backlog.md)
+
 
 Previous Sprint Backlogs:
-- None as of now.
+- [Sprint 04 Backlog](previous-sprint-backlogs/sprint-04-backlog.md)
 
 #### Credits
 - **Application:** Getting to Know Each Other Teams
