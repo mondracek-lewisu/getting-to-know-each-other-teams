@@ -25,3 +25,4 @@ Members present for planning: Matt, Jesse, Alanna
 | RC-011 | As a developer, I want to contribute at least 2 meaningful stories to the product backlog. (Jesse) | 7 | 1 | Y | -- | JL |
 | RC-012 | As a developer, I want to contribute at least 2 meaningful stories to the product backlog. (Alanna) | 7 | 1 | Y | -- | ASL |
 | RC-013 | As a developer, I want to contribute at least 2 meaningful stories to the product backlog. (Vincent) | 7 | 1 | Y | -- | VM |
+| RC-014 | As a developer, I want to go the Fall 2026 mid-term Product Review on Tuesday, October 27 at 2 pm CT for the capstone Scrum Team. | 4 | 1 | Y | -- | -- |
