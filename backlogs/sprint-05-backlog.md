@@ -10,9 +10,9 @@ Scrum Master: Jesse Lopez
 
 Product Owner: Matt Ondracek
 
-Sprint 5 Planning Date/Time: 10/20
+Sprint 5 Planning Date/Time: 10/20 Completed: 10/21
 
-Sprint 5 Planning Participants: Matt, Jesse, Alanna
+Sprint 5 Planning Participants: Matt, Jesse, Alanna, Vincent
 
 There are a total of 28 story points in this sprint.
 Each team member gets 7 story points each.
