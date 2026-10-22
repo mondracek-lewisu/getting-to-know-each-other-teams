@@ -16,6 +16,7 @@ Sprint 5 Planning Participants: Matt, Jesse, Alanna
 
 There are a total of 28 story points in this sprint.
 Each team member gets 7 story points each.
+
 Sprint 5 Backlog:
 
 # 📋 Product Backlog – *ECaMs BillBoard*
