@@ -42,3 +42,5 @@ permalink: /backlogs/product-backlog/
 | RC-019 | As a user, I want to see the developers' names in the about section of the billboard application. (Alanna) | 9 | 1 | N | -- | -- |
 | RC-020 | As a user, I want to see the developers' names in the about section of the billboard application. (Vincent) | 9 | 1 | N | -- | -- |
 | RC-021 | As a user, I want to see what Scrum teams are actively working on the billboard application. | 8 | 1 | N | -- | -- |
+| RC-022 | As a user, I want to see the professor's photos on the ECaMs monitor so that I can easily identify the professors. | 4 | 1 | N | -- | -- |
+| RC-023 | As a team member, I want to use the story application to manage the product backlog and sprint backlog, making it easier to manage and track. | 4 | 1 | N | -- | -- |
