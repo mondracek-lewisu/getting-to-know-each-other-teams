@@ -43,5 +43,7 @@ Sprint 5 Backlog:
 | RC-015 | As Scrum Master, I want to review my team's performance in the previous sprint. | 6 | 1 | Y | -- | JL |
 | RC-016 | As Product Owner, I want to review (and update if needed) our team's definition of Done. | 6 | 1 | Y | DONE | MO |
 | RC-014 | As a developer, I want to go the Fall 2026 mid-term Product Review on Tuesday, October 27 at 2 pm CT for the capstone Scrum Team. | 4 | 1 | Y | -- | VM |
+| RC-015 | As a user, I want to see the professor's photos on the ECaMs monitor so that I can easily identify the professors. | 4 | 1 | N | -- | ASL |
+| RC-016 | As a user, I want to see the professor's photos on the ECaMs monitor so that I can easily identify the professors. | 4 | 1 | N | -- | ASL |
 
 
