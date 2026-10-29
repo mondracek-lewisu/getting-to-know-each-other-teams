@@ -4,8 +4,6 @@ title: Sprint 5 Backlog
 permalink: /previous-sprint-backlogs/sprint-04-backlog/
 ---
 
-# 📋 Sprint 05 Backlog – *ECaMs Billboard*
-
 Scrum Master: Jesse Lopez
 
 Product Owner: Matt Ondracek
@@ -17,9 +15,7 @@ Sprint 5 Planning Participants: Matt, Jesse, Alanna, Vincent
 There are a total of 28 story points in this sprint.
 Each team member gets 7 story points each.
 
-Sprint 5 Backlog:
-
-# 📋 Product Backlog – *ECaMs BillBoard*
+# 📋 Sprint 05 Backlog – *ECaMs Billboard*
 
 | **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
