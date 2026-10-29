@@ -17,7 +17,7 @@ permalink: /backlogs/product-backlog/
 - Scrum Master: Alanna
 - Product Owner: Vincent
   
-# 📋 Product Backlog – *Insurance Risk Calculator*
+# 📋 Product Backlog – *ECaMs Billboard*
 
 | **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
