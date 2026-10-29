@@ -25,13 +25,13 @@ Each team member gets 7 story points each.
 | RC-005 | As Vincent, I want to be able to work on and test the billboard product locally and through Azure. | 10 | 2 | Y | -- | VM |
 | RC-006 | As a user, I want to see the developers' names on the credit page of the billboard application. (Matt) | 9 | 2 | N | -- | MO |
 | RC-007 | As a user, I want to see the developers' names on the credit page of the billboard application. (Jesse) | 9 | 2 | N | -- | JL |
-| RC-008 | As a user, I want to see the developers' names on the credit page of the billboard application. (Alanna) | 9 | 2 | N | -- | ASL |
+| RC-008 | As a user, I want to see the developers' names on the credit page of the billboard application. (Alanna) | 9 | 2 | N | DONE | ASL |
 | RC-009 | As a user, I want to see the developers' names on the credit page of the billboard application. (Vincent) | 9 | 2 | N | -- | VM |
 | RC-017 | As a user, I want to see the developers' names in the about section of the billboard application. (Matt) | 9 | 1 | N | -- | MO |
 | RC-018 | As a user, I want to see the developers' names in the about section of the billboard application. (Jesse) | 9 | 1 | N | -- | JL |
-| RC-019 | As a user, I want to see the developers' names in the about section of the billboard application. (Alanna) | 9 | 1 | N | -- | ASL |
+| RC-019 | As a user, I want to see the developers' names in the about section of the billboard application. (Alanna) | 9 | 1 | N | DONE | ASL |
 | RC-020 | As a user, I want to see the developers' names in the about section of the billboard application. (Vincent) | 9 | 1 | N | -- | VM |
-| RC-021 | As a user, I want to see what Scrum teams are actively working on the billboard application. | 8 | 1 | N | -- | ASL |
+| RC-021 | As a user, I want to see what Scrum teams are actively working on the billboard application. | 8 | 1 | N | DONE | ASL |
 | RC-010 | As a developer, I want to contribute at least 2 meaningful stories to the product backlog. (Matt) | 7 | 1 | Y | DONE | MO |
 | RC-011 | As a developer, I want to contribute at least 2 meaningful stories to the product backlog. (Jesse) | 7 | 1 | Y | -- | JL |
 | RC-012 | As a developer, I want to contribute at least 2 meaningful stories to the product backlog. (Alanna) | 7 | 1 | Y | DONE | ASL |
