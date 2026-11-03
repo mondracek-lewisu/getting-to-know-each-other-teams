@@ -4,16 +4,16 @@ title: Sprint 6 Backlog
 permalink: /previous-sprint-backlogs/sprint-05-backlog/
 ---
 
-Scrum Master: Jesse Lopez
+Scrum Master: Alanna San Luis
 
-Product Owner: Matt Ondracek
+Product Owner: Vincent Medina
 
-Sprint 6 Planning Date/Time: 10/20 Completed: 10/21
+Sprint 6 Planning Date/Time: 11/3 Completed: 11/15
 
 Sprint 6 Planning Participants: Matt, Jesse, Alanna, Vincent
 
-There are a total of 28 story points in this sprint.
-Each team member gets 7 story points each.
+There are a total of 32 story points in this sprint.
+Each team member gets 8 story points each.
 
 # 📋 Sprint 06 Backlog – *ECaMs Billboard*
 
