@@ -5,17 +5,20 @@ permalink: /backlogs/product-backlog/
 ---
 
 ### Last Sprint
-- Scrum Master: Matt
-- Product Owner: Alanna
-### This Sprint
 - Scrum Master: Jesse
 - Product Owner: Matt
-- Capacity: 28 story points
-- Members present for planning: Matt, Jesse, Alanna
-- Sprint 4 Retrospective: Minimal retrospective completed in class.
-### Next Sprint:
+### This Sprint
 - Scrum Master: Alanna
 - Product Owner: Vincent
+- Capacity: 
+- Members present for planning: Matt, Jesse, Alanna, Vincent
+- Sprint 5 Retrospective:
+### Sprint 7:
+- Scrum Master: Vincent
+- Product Owner: Jesse
+### Sprint 8:
+- Scrum Master: Jesse
+- Product Owner: Matt
   
 # 📋 Product Backlog – *ECaMs Billboard*
 
