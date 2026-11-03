@@ -1,1 +1,1 @@
-For us, being done means having a working product in production and at least two members agree the story complete in the allotted time.
+The code is completed and has been reviewed at least once, The code has been tested for similar devices of ECaMS billboard, The code has thoughtful documentation/comments, The code is ready for deployment, The code is ready to be demoed. At least one GitHub commit to the product branch that with a commit message ‘Story [[STORY-NUMBER]] done
