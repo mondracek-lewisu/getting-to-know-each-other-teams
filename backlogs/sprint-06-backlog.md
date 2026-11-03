@@ -19,7 +19,4 @@ Each team member gets 8 story points each.
 
 | **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
-| RC-002 | As Matt, I want to be able to work on and test the billboard product locally and through Azure. | 10 | 2 | Y | DONE | MO |
-| RC-003 | As Jesse, I want to be able to work on and test the billboard product locally and through Azure. | 10 | 2 | Y | DONE | JL |
-| RC-004 | As Alanna, I want to be able to work on and test the billboard product locally and through Azure. | 10 | 2 | Y | DONE | ASL |
-| RC-005 | As Vincent, I want to be able to work on and test the billboard product locally and through Azure. | 10 | 2 | Y | DONE | VM |
+| RC-001 | As Product Owner, I want to coordinate our Product Backlog with that of the capstone Scrum Team. | 9 | 1 | Y | -- | -- |
