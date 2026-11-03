@@ -45,3 +45,4 @@ permalink: /backlogs/product-backlog/
 | RC-019 | As Developer, I want to familiarize myself with the structure of the GitHub Repository, the database, and Microsoft Azure (Matt). | 9 | 4 | Y | -- | -- |
 | RC-020 | As a user, I want to see important school events on the Calendar section of the website. | 4 | 3 | N | -- | -- |
 | RC-021 | As a user, I want to see other Capstone Projects within the Capstone Product section of the website. | 4 | 3 | N | -- | -- |
+| RC-022 | As a user, I want to see a darker background for the Campus Map section of the website. | 4 | 2 | N | -- | -- |
