@@ -38,4 +38,9 @@ permalink: /backlogs/product-backlog/
 | RC-012 | As a team member, I want to show my support for the Capstone Team at the Celebration of Scholarship Lite (Alanna). | 3 | 2 | Y | -- | -- |
 | RC-013 | As a team member, I want to show my support for the Capstone Team at the Celebration of Scholarship Lite (Jesse). | 3 | 2 | Y | -- | -- |
 | RC-014 | As a team member, I want to show my support for the Capstone Team at the Celebration of Scholarship Lite (Matt). | 3 | 2 | Y | -- | -- |
+| RC-015 | As a team member, I want to ensure that the Capstone Team transferred ownership of the GitHub Repository (Vincent). | 9 | 1 | Y | -- | -- |
+| RC-016 | As a team member, I want to ensure that the Capstone Team transferred ownership of the GitHub Repository (Alanna). | 9 | 1 | Y | -- | -- |
+| RC-017 | As a team member, I want to ensure that the Capstone Team transferred ownership of the GitHub Repository (Jesse). | 9 | 1 | Y | -- | -- |
+| RC-018 | As a team member, I want to ensure that the Capstone Team transferred ownership of the GitHub Repository (Matt). | 9 | 1 | Y | -- | -- |
+
 
