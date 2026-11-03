@@ -20,5 +20,5 @@ Each team member gets 8 story points each.
 | **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
 | RC-001 | As Product Owner, I want to coordinate our Product Backlog with that of the capstone Scrum Team. | 9 | 1 | Y | -- | -- |
-
 | RC-003 | As a team member, I want to use the story application to manage the product backlog and sprint backlog, making it easier to manage and track. | 4 | 1 | Y | -- | -- |
+| RC-005 | As a user, I want to make sure that I am able to provide feedback to the production team. | 2 | 4 | N | -- | -- |
