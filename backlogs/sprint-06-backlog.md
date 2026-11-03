@@ -35,4 +35,6 @@ Each team member gets 8 story points each.
 | RC-017 | As Developer, I want to familiarize myself with the structure of the GitHub Repository, the database, and Microsoft Azure (Alanna). | 9 | 4 | Y | -- | -- |
 | RC-018 | As Developer, I want to familiarize myself with the structure of the GitHub Repository, the database, and Microsoft Azure (Jesse). | 9 | 4 | Y | -- | -- |
 | RC-019 | As Developer, I want to familiarize myself with the structure of the GitHub Repository, the database, and Microsoft Azure (Matt). | 9 | 4 | Y | -- | -- |
+| RC-020 | As a user, I want to see important school events on the Calendar section of the website. | 4 | 3 | N | -- | -- |
+| RC-021 | As a user, I want to see other Capstone Projects within the Capstone Product section of the website. | 4 | 3 | N | -- | -- |
 
