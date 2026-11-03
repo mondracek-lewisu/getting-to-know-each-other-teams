@@ -28,7 +28,7 @@ permalink: /backlogs/product-backlog/
 | RC-002 | As a user, I want to see the professor's photos on the ECaMs monitor so that I can easily identify the professors. | 4 | 1 | N | -- | -- |
 | RC-003 | As a team member, I want to use the story application to manage the product backlog and sprint backlog, making it easier to manage and track. | 4 | 1 | Y | -- | -- |
 | RC-004 | As a team member, I want to make sure that everyone in the group knows what I have changed. | 3 | 1 | Y | -- | -- |
-| RC-005 | As a user, I want to make sure that I am able to provide feedback to the production team. | 2 | 4 | N | -- | -- |
+| RC-005 | As a user, I want to make sure that I am able to provide feedback to the production team. | 2 | 2 | N | -- | -- |
 | RC-006 | As a user, I want to see notifications for upcoming events I am interested in. | 3 | 3 | N | -- | -- |
 | RC-007 | As a team member, I want to discuss any potential issues that may occur in the future with the current billboard application. | 2 | 1 | Y | -- | -- |
 | RC-008 | As Scrum Master, I want to coordinate our definition of DONE with that of the Capstone Team. | 8 | 1 | Y | -- | -- |
