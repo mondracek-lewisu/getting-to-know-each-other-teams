@@ -24,7 +24,7 @@ permalink: /backlogs/product-backlog/
 
 | **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
-| RC-001 | As a Scrum Team, we want to coordinate our Product Backlog with that of the capstone Scrum Team. | 6 | 1 | Y | -- | -- |
+| RC-001 | As a Product Owner, I want to coordinate our Product Backlog with that of the capstone Scrum Team. | 9 | 1 | Y | -- | -- |
 | RC-002 | As a user, I want to see what Scrum teams are actively working on the billboard application. | 8 | 1 | N | -- | -- |
 | RC-003 | As a user, I want to see the professor's photos on the ECaMs monitor so that I can easily identify the professors. | 4 | 1 | N | -- | -- |
 | RC-004 | As a team member, I want to use the story application to manage the product backlog and sprint backlog, making it easier to manage and track. | 4 | 1 | N | -- | -- |
@@ -32,3 +32,4 @@ permalink: /backlogs/product-backlog/
 | RC-006 | As a user, I want to make sure that I am able to provide feedback to the production team. | 2 | 4 | N | -- | -- |
 | RC-007 | As a user, I want to see notifications for upcoming events I am interested in. | 3 | 3 | N | -- | -- |
 | RC-008 | As a team member, I want to discuss any potential issues that may occur in the future with the current buildboard application. | 2 | 1 | Y | -- | -- |
+| RC-009 | As Scrum Master, I want to coordinate our definition of DONE with that of the Capstone Team. | 8 | 1 | Y | -- | -- |
