@@ -35,6 +35,4 @@ Each team member gets 8 story points each.
 | RC-002 | As a user, I want to see the professor's photos on the ECaMs monitor so that I can easily identify the professors. | 4 | 1 | N | -- | -- |
 | RC-003 | As a team member, I want to use the story application to manage the product backlog and sprint backlog, making it easier to manage and track. | 4 | 1 | Y | -- | -- |
 | RC-020 | As a user, I want to see important school events on the Calendar section of the website. | 4 | 3 | N | -- | -- |
-| RC-021 | As a user, I want to see other Capstone Projects within the Capstone Product section of the website. | 4 | 3 | N | -- | -- |
-| RC-022 | As a user, I want to see a darker background for the Campus Map section of the website. | 4 | 2 | N | -- | -- |
 | RC-005 | As a user, I want to make sure that I am able to provide feedback to the production team. | 2 | 2 | N | -- | -- |
