@@ -48,3 +48,4 @@ permalink: /backlogs/product-backlog/
 | RC-022 | As a user, I want to see Stories within the Capstone Product section of the website. | 4 | 2 | N | -- | -- |
 | RC-023 | As a user, I want to see PitHub within the Capstone Product section of the website. | 4 | 2 | N | -- | -- |
 | RC-024 | As a user, I want to see a darker background for the Campus Map section of the website. | 4 | 2 | N | -- | -- |
+| RC-025 | As a team member, I want to add percentage of spikes to our team's metrics. | 9 | 1 | Y | -- | -- |
