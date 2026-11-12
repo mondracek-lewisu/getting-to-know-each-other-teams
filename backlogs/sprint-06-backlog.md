@@ -35,7 +35,7 @@ Each team member gets 8 story points each.
 | RC-020 | As a user, I want to see important school events on the Calendar section of the website. | 4 | 3 | N | -- | JL |
 | RC-010 | As a team member, I want to look into helping plan the Celebration of Scholarship-Like activity with the Capstone Team. | 4 | 2 | Y | -- | VM |
 | RC-021 | As a user, I want to see SyllaBye within the Capstone Product section of the website. | 4 | 2 | N | DONE | MO |
-| RC-022 | As a user, I want to see Stories within the Capstone Product section of the website. | 4 | 2 | N |  | ASL |
+| RC-022 | As a user, I want to see Stories within the Capstone Product section of the website. | 4 | 2 | N | DONE | ASL |
 | RC-023 | As a user, I want to see PitHub within the Capstone Product section of the website. | 4 | 2 | N | DONE | MO |
 | RC-024 | As a user, I want to see a darker background for the Campus Map section of the website. | 4 | 2 | N | DONE | ASL |
 | RC-002 | As a user, I want to see the professor's photos on the ECaMs monitor so that I can easily identify the professors. | 4 | 1 | N | -- | VM |
