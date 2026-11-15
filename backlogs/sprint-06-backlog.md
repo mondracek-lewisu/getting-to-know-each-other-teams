@@ -19,7 +19,7 @@ Each team member gets 8 story points each.
 
 | **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
-| RC-001 | As Product Owner, I want to coordinate our Product Backlog with that of the capstone Scrum Team. | 9 | 1 | Y | -- | VM |
+| RC-001 | As Product Owner, I want to coordinate our Product Backlog with that of the capstone Scrum Team. | 9 | 1 | Y | DONE | VM |
 | RC-016 | As Developer, I want to familiarize myself with the structure of the GitHub Repository, the database, and Microsoft Azure (Vincent). | 9 | 4 | Y | DONE | VM |
 | RC-017 | As Developer, I want to familiarize myself with the structure of the GitHub Repository, the database, and Microsoft Azure (Alanna). | 9 | 4 | Y | DONE | ASL |
 | RC-018 | As Developer, I want to familiarize myself with the structure of the GitHub Repository, the database, and Microsoft Azure (Jesse). | 9 | 4 | Y | DONE | JL |
