@@ -20,11 +20,11 @@ Each team member gets 8 story points each.
 | **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
 | RC-001 | As Product Owner, I want to coordinate our Product Backlog with that of the capstone Scrum Team. | 9 | 1 | Y | -- | VM |
-| RC-016 | As Developer, I want to familiarize myself with the structure of the GitHub Repository, the database, and Microsoft Azure (Vincent). | 9 | 4 | Y | -- | VM |
+| RC-016 | As Developer, I want to familiarize myself with the structure of the GitHub Repository, the database, and Microsoft Azure (Vincent). | 9 | 4 | Y | DONE | VM |
 | RC-017 | As Developer, I want to familiarize myself with the structure of the GitHub Repository, the database, and Microsoft Azure (Alanna). | 9 | 4 | Y | DONE | ASL |
 | RC-018 | As Developer, I want to familiarize myself with the structure of the GitHub Repository, the database, and Microsoft Azure (Jesse). | 9 | 4 | Y | DONE | JL |
 | RC-019 | As Developer, I want to familiarize myself with the structure of the GitHub Repository, the database, and Microsoft Azure (Matt). | 9 | 4 | Y | -- | MO |
-| RC-011 | As a team member, I want to ensure that the Capstone Team transferred ownership of the GitHub Repository (Vincent). | 9 | 1 | Y | -- | VM |
+| RC-011 | As a team member, I want to ensure that the Capstone Team transferred ownership of the GitHub Repository (Vincent). | 9 | 1 | Y | DONE | VM |
 | RC-012 | As a team member, I want to ensure that the Capstone Team transferred ownership of the GitHub Repository (Alanna). | 9 | 1 | Y | DONE | ASL |
 | RC-013 | As a team member, I want to ensure that the Capstone Team transferred ownership of the GitHub Repository (Jesse). | 9 | 1 | Y | DONE | JL |
 | RC-014 | As a team member, I want to ensure that the Capstone Team transferred ownership of the GitHub Repository (Matt). | 9 | 1 | Y | DONE | MO |
