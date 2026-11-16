@@ -39,7 +39,7 @@ Each team member gets 8 story points each.
 | RC-023 | As a user, I want to see PitHub within the Capstone Product section of the website. | 4 | 2 | N | DONE | MO |
 | RC-024 | As a user, I want to see a darker background for the Campus Map section of the website. | 4 | 2 | N | DONE | ASL |
 | RC-002 | As a user, I want to see the professor's photos on the ECaMs monitor so that I can easily identify the professors. | 4 | 1 | N | -- | VM |
-| RC-003 | As a team member, I want to use the story application to manage the product backlog and sprint backlog, making it easier to manage and track. | 4 | 1 | Y | -- | JL |
+| RC-003 | As a team member, I want to use the story application to manage the product backlog and sprint backlog, making it easier to manage and track. | 4 | 1 | Y | DONE | JL |
 | RC-005 | As a user, I want to make sure that I am able to provide feedback to the production team. | 2 | 2 | N | DONE | ASL |
 
 
